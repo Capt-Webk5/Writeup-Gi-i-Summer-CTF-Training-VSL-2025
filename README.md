@@ -1,4 +1,3 @@
-# Writeup-Gi-i-Summer-CTF-Training-VSL-2025
 # Writeup Giải Summer CTF Training VSL 2025
 - Lời đầu tiên e xin cảm ơn các a đã tạo ra những câu challenge để luyện tập hay. Sau đây e viết writeup các câu web e đã giải được.
 # Upload file 1
